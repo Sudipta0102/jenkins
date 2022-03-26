@@ -1,0 +1,13 @@
+Started by user [8mha:////4BKFG58f7W1t17LuULpmZwHzoz94SpslAk2/bDwymd+aAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZu/dLi1CL9xJTczDwACG0V4sAAAAA=[0mjenkins admin
+Running as SYSTEM
+Building in workspace /var/jenkins_home/workspace/third-pro-script-run
+[third-pro-script-run] $ /bin/sh -xe /tmp/jenkins9351155292226077600.sh
++ echo hello effs
+hello effs
++ echo /var/jenkins_home/workspace/third-pro-script-run
+/var/jenkins_home/workspace/third-pro-script-run
++ /tmp/sample-script.sh Blue Bleh false
+Hello, I am Blue Bleh
++ echo app3 is diaplayed
+app3 is diaplayed
+Finished: SUCCESS
